@@ -1,8 +1,8 @@
 
 
 ### I'm
-<img src="Vector.png" alt="Glutesha" width="100" align="left"/>
-<img src="https://glutesha.me/assets/logo-BYbftR7g.png" alt="Glutesha" width="400"/>
+<img src="https://glutesha.me/assets/logo-BYbftR7g.png" align="left" alt="Glutesha" width="400"/>
+<img src="Vector.png" alt="Glutesha" width="100"/>
 
 - My real name is Vladislav.
 - My pronouns are He/Him.
