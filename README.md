@@ -1,6 +1,3 @@
-
-
-### I'm
 <img src="https://glutesha.me/assets/logo-BYbftR7g.png" alt="Glutesha" width="400"/> 
 
 - My real name is Vladislav.
