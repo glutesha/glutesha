@@ -1,15 +1,15 @@
 
 
 ### I'm
-<img src="Vector.png" alt="Glutesha" width="300" align="right"/>
-<img src="https://glutesha.me/assets/logo-BYbftR7g.png" alt="Glutesha" width="450"/>
+<img src="Vector.png" alt="Glutesha" width="100" align="left"/>
+<img src="https://glutesha.me/assets/logo-BYbftR7g.png" alt="Glutesha" width="400"/>
 
 - My real name is Vladislav.
 - My pronouns are He/Him.
-- I'm currently interested in web and embedded.
-- My personal webpage - [glutesha.me](https://glutesha.me)
-- I code in Python, C++, HTML, JS, TS and sometimes in C#
+- I'm currently interested in web and embedded development.
+- My webpage - [glutesha.me](https://glutesha.me)
+- I code in Python, C++, HTML, JS, TS, and sometimes in C#
 
-My github is a bit empty since i usually do school projects and   
-competitive programming, but i'll do my best to fill it up   
-with something cool!
+My GitHub is a bit empty since I usually do school projects  
+and competitive programming, but I'll do my best to fill it  
+up with something cool!
