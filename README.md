@@ -10,6 +10,6 @@
 - My webpage - [glutesha.me](https://glutesha.me)
 - I code in Python, C++, HTML, JS, TS, and sometimes in C#
 
-My GitHub is a bit empty since I usually do school projects  
+My GitHub is a bit empty since most of the time I do school projects  
 and competitive programming, but I'll do my best to fill it  
 up with something cool!
