@@ -4,7 +4,7 @@
 - My pronouns are He/Him.
 - I'm currently interested in web and embedded development.
 - My webpage - [glutesha.me](https://glutesha.me)
-- I code in Python, C++, HTML, JS, TS, and sometimes in C#
+- I code in Python, C++, HTML, JS, TS, and sometimes in C
 
 My GitHub is currently empty, as I spend most of my time working on school projects and competitive programming; however, it'll change soon.
 
