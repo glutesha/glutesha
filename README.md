@@ -1,6 +1,6 @@
 <img src="https://glutesha.me/assets/logo-BYbftR7g.png" alt="Glutesha" width="400"/> 
 
-- My real name is Vladislav.
+- My common nickname is glutesha.
 - My pronouns are He/Him.
 - I'm currently interested in web and embedded development.
 - My webpage - [glutesha.me](https://glutesha.me)
